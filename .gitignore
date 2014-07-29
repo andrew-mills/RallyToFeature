@@ -138,6 +138,9 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 
+# bolt
+.*.boltdata/
+
 # =========================
 # Windows detritus
 # =========================
